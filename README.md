@@ -9,6 +9,4 @@ Skills: PYTHON / DJANGO / FLASK / ANGULAR / JS / CSS / HTML
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestmucheru&show_icons=true) 
-
 
